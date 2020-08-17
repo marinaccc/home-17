@@ -1,10 +1,10 @@
 function Post(item){
     const div = document.createElement('div')
     const img = document.createElement('img')
-    const img = document.createElement('img')
+    // const img = document.createElement('img')
     const h2 = document.createElement('h2')
     const p = document.createElement('p')
-    const p = document.createElement('p')
+    // const p = document.createElement('p')
     const a = document.createElement('a')
     
     div.appendChild(img)
