@@ -12,7 +12,6 @@
 }
 
 .Post__photo{
-    position: absolute;
     border-radius: 7px;
     background-image: url(../photo/Photo__1.png);
     width: 414px;
